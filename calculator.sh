@@ -3,8 +3,7 @@
 # add addition
 
 # division
-<<<<<<< HEAD
 
 This is being written to addition branch
-=======
->>>>>>> master
+
+This is being written to put division branch
